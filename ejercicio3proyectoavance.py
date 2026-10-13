@@ -2,7 +2,7 @@
 # ============================================================
 # Archivo: ejercicio3_soporte_tripulacion.py
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCV3
-# Integrantes: [Completar nombres]
+# Integrantes: Rony Sánchez Masís
 # Fecha: 12/10/2026        Versión: 1.0
 # Descripción: Verifica si hay oxígeno y provisiones suficientes.
 # ============================================================
